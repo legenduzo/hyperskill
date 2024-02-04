@@ -1,0 +1,12 @@
+.main-container {
+    width: 40%;
+}
+
+.frog-text {
+    text-align: justify;
+}
+
+.float-the-frog {
+    margin: 0 5px;
+    float: left;
+}
