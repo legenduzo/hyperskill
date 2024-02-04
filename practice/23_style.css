@@ -1,0 +1,15 @@
+.flex-container{
+    display: flex;
+}
+
+.flex-container{
+  border: 1px solid brown;
+  padding: 0.8em;
+  width: 50%;
+}
+
+.flex-item{
+  border: 1px solid brown;
+  margin: 0.5em;
+  padding: 0.5em;
+}
