@@ -1,0 +1,55 @@
+nav {
+  height: 100px;
+  background: linear-gradient(to right, #9a9aff, #282090);
+}
+
+nav a {
+  color: white;
+  line-height: 100px;
+  font-size: 25px;
+  text-decoration: none;
+  margin: 10px;
+}
+
+header {
+  background: linear-gradient(to right, #ff9a9e, #fad0c4);
+  height: 500px;
+}
+
+h1 {
+  font-size: 60px;
+  line-height: 300px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+}
+
+#about,
+#contacts {
+  padding: 10px;
+  background: #fff6f6;
+}
+
+div {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+
+footer {
+  background: black;
+  height: 100px;
+}
+
+footer p {
+  color: rgb(255, 254, 254);
+  line-height: 100px;
+  text-align: center;
+}
