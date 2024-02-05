@@ -1,0 +1,14 @@
+.quote {
+    border: 3px dashed pink;
+}
+   
+div {
+    margin: 0 auto;
+    text-align: center;
+    width: 60%;
+}
+   
+p {
+    padding: 5px;
+}
+   
