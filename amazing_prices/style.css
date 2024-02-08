@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: auto;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(1, 124, 255, 0.5);
+}
+
+a {
+  font-family: "Inter", system-ui, sans-serif;
+  text-decoration: none;
+  color: #274867;
+  font-weight: 500;
+}
+
+.business_name {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-left: 50px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 50px;
+  width: 357px;
+}
+
+main {
+  height: 80vh;
+  background: #e5f2ff;
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 10vh;
+  border-top: 1px solid rgba(1, 124, 255, 0.5);
+}
