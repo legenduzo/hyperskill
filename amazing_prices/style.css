@@ -41,8 +41,9 @@ main {
 
 footer {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
+  padding-right: 50px;
   height: 10vh;
   border-top: 1px solid rgba(1, 124, 255, 0.5);
 }
